@@ -1,1 +1,42 @@
+/* needs background image */
 
+body {
+	background-color: lightblue;
+}
+
+h1 {
+	color: white;
+	background-color: orange;
+	padding: 40px 2px;
+	margin: 20px;
+	width: 290px;
+
+}
+
+p {
+	color: green;
+	background-color: khaki;
+
+}
+
+div {
+	background-color: green;
+	color: white;
+}
+
+img {
+	max-width: 200px;
+	max-height: 200px;
+}
+
+input {
+	max-width: 200px;
+	max-height: 200px;
+}
+
+#goal {
+	background-color: lightgreen;
+	color: #000000;
+	max-width: 200px;
+	max-height: 200px;
+}
